@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome] 👋
+# Hi there, I'm Vitória 👋
 
 🎓 **Computer Science Student** at UFRGS (Universidade Federal do Rio Grande do Sul)  
 🛡️ **Interested in:** Cybersecurity, Information Security, Data & Software Development  
