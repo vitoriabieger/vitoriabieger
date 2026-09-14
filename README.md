@@ -14,5 +14,6 @@
 ---
 
 ### 📫 How to reach me
-[Meu LinkedIn]((https://www.linkedin.com/in/seu-perfil)
+[Meu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+
 [araujo.vitoriacb@gmail.com](mailto:araujo.vitoriacb@gmail.com)
