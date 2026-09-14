@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C, Python
-* **Tools & OS:** Linux, Git, GitHub, VS Code
+* **Tools & OS:** Git, GitHub, VS Code
 * **Learning:** Cybersecurity fundamentals (TryHackMe / Cisco Academy), Networks, Data Analysis
 
 ---
