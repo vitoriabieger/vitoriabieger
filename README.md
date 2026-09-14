@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Seu Nome] 👋
 
-<!--
-**vitoriabieger/vitoriabieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at UFRGS (Universidade Federal do Rio Grande do Sul)  
+🛡️ **Interested in:** Cybersecurity, Information Security, Data & Software Development  
+💜 **Volunteer & Member:** Active in an extension project at UFRGS aimed at empowering and supporting women in Computer Science through planning, operations, and reporting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C, SQL
+* **Tools & OS:** Linux, Git, GitHub, VS Code
+* **Learning:** Cybersecurity fundamentals (TryHackMe / Cisco Academy), Networks, Data Analysis
+
+---
+
+### 📫 How to reach me
+[Meu LinkedIn]((https://www.linkedin.com/in/seu-perfil)
+[araujo.vitoriacb@gmail.com](mailto:araujo.vitoriacb@gmail.com)
